@@ -1,0 +1,36 @@
+body{
+  color:black;
+  background-color: rgb(255, 253,208);
+}
+
+div {
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  font-size: 6em;
+  text-align: center;
+  color: green;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size:1.3em;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+  font-size: 4em;
+}
